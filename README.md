@@ -34,6 +34,8 @@ d : delet
     
     cd mysite # 경로이동
     
+    source myvenv/bin/activate # 가상환경 진입
+    
     pip3 install pillow==2.9.0 # 뭔지 모르겠음 ㅠ ㅠ 
     
     pip3 install django-taggit # 뭔지 모르겠음 ㅠ ㅠ 
